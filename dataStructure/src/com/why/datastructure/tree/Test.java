@@ -46,12 +46,13 @@ public class Test {
 				
 				
 				//在二叉树中查找某个值
-				System.out.println(btree.findKey(1));
+				System.out.println(btree.findKey(7));
 				
 				//二叉树的高度
-				System.out.println(btree.getHeight());
+				System.out.println("二叉树的高度:"+btree.getHeight());
 				
 				//二叉树的结点数量
-				System.out.println(btree.size());
+				System.out.println("二叉树的结点数量:"+btree.size());
+				
 	}
 }

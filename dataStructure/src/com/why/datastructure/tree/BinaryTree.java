@@ -27,7 +27,7 @@ public interface BinaryTree {
 	 * @param value
 	 * @return
 	 */
-	public Node findKey(int value); // 查找
+	public Node findKey(Object value); // 查找
 	/**
 	 * 前序递归遍历
 	 */
