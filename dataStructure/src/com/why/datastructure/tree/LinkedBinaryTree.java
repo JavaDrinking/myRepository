@@ -207,7 +207,7 @@ public class LinkedBinaryTree implements BinaryTree{
 		
 	}
 
-	/* (non-Javadoc)按照层次遍历二叉树,记住数据结构队列实现
+	/* (non-Javadoc)按照层次遍历二叉树,借助数据结构队列实现
 	 * @see com.why.datastructure.tree.BinaryTree#levelOrderByStack()
 	 */
 	@Override
